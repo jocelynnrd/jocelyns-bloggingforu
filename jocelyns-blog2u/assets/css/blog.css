@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif; /*font style for body*/
+    background-color: white;
+    margin: 0%;
+    padding: 0%;
+}
+
+header {
+    background-color: aqua;
+    color:blue;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+}
+ 
+button {
+background-color: aqua;
+color: blue;
+border-radius: 5px;
+}
+
+
+
+
+
